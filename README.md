@@ -1,7 +1,7 @@
 # Django Task 4
 This app allows user to add and view courses
 
-**Requirements
+**Requirements**
 
 What software you need to install to use this app
 
@@ -11,6 +11,6 @@ What software you need to install to use this app
 - sqlparse==0.3.0
 - python-decouple==3.1
 
-**Authors
+**Authors**
 
-Sergei Shinn -- ***Domodom
+Sergei Shinn -- ***Domodom***
