@@ -1,4 +1,4 @@
-*.ini
+.ini
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -84,6 +84,7 @@ celerybeat-schedule
 
 # Environments
 .env
+.ini
 .venv
 env/
 venv/
